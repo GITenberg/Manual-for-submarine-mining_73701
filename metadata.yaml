@@ -1,0 +1,38 @@
+_repo: Manual-for-submarine-mining_73701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. War Department
+    aliases:
+    - Dept., United States. War
+    - Department, United States. War
+    - United States. War Dept.
+    - Department, U. S. War
+    - Department, United States War
+    - Department, U.S. War
+    gutenberg_agent_id: '3745'
+    url: http://www.gutenberg.org/2009/agents/3745
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Department_of_War
+description: ''
+gutenberg_issued: '2024-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73701'
+language: en
+pgterms:marc904: https://archive.org/details/manualforsubmari00unitrich
+pgterms:marc905: 20220407053632uswardepar
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aWashington :$bGovernment Printing Office, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: War Department, Document no. 399
+subjects:
+- !lcsh 'Submarine mines -- Handbooks, manuals, etc.'
+- !lcc 'UG'
+- GITenberg
+title: Manual for submarine mining
+url: http://www.gutenberg.org/ebooks/73701
