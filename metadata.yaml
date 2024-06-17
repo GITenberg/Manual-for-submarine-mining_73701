@@ -1,5 +1,8 @@
 _repo: Manual-for-submarine-mining_73701
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73701-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. War Department
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3745
     wikipedia: https://en.wikipedia.org/wiki/United_States_Department_of_War
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73701#Manual-for-submarine-mining
 gutenberg_issued: '2024-05-26'
 gutenberg_type: Text
 identifiers:
